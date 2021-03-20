@@ -9,8 +9,9 @@
   --min-width: 360px;
   --max-width: 1200px;
   --base-font-family: Arial, Helvetica, sans-serif;
-  --fancy-font-family: 'Lobster', serif;
+  --fancy-font-family: 'Open Sans', sans-serif;
   --base-padding: 10px;
+  --base-border-radius: .45rem;
   font-size: 12px;
 }
 
@@ -93,6 +94,9 @@ button {
 .btn {
   padding: .65rem 1rem;
   transition: .3s all;
+  -webkit-border-radius: var(--base-border-radius);
+  -moz-border-radius: var(--base-border-radius);
+  border-radius: var(--base-border-radius);
 }
 
 .btn--small {
@@ -144,7 +148,10 @@ button {
 .product {
   text-align: center;
   padding: var(--base-padding);
-  border: 2px dashed var(--color-gray-light);
+  border: 1px solid var(--color-gray-light);
+  -webkit-border-radius: var(--base-border-radius);
+  -moz-border-radius: var(--base-border-radius);
+  border-radius: var(--base-border-radius);
 }
 
 .product:hover {
@@ -152,7 +159,7 @@ button {
 }
 
 .product__price:before {
-  content: '$';
+  content: 'R$';
 }
 
 .product__image {
