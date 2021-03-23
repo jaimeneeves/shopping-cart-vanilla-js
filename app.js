@@ -1,4 +1,3 @@
-// Repositório original do código [https://github.com/diamile/shopping-cart-vanilla-js]
 // Criando um carrinho de compras com JavaScript, CSS e HTML
 //
 // Dados que serão estudados no curso básico
