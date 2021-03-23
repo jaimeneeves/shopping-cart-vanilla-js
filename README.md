@@ -1,4 +1,4 @@
-# Carrinho de compras com JavaScript, CSS e HTML.
+# Carrinho de compras com JavaScript, CSS e HTML
 
 ## Dados que serão estudados nessa aplicação
   * browser localStorage
