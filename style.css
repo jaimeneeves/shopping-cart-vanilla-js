@@ -12,6 +12,7 @@
   --fancy-font-family: 'Open Sans', sans-serif;
   --base-padding: 10px;
   --base-border-radius: .45rem;
+  --cart-base-font-size: 13px;
   font-size: 12px;
 }
 
@@ -148,22 +149,14 @@ button {
 .product {
   text-align: center;
   padding: var(--base-padding);
-  border: 1px solid var(--color-gray-light);
-  -webkit-border-radius: var(--base-border-radius);
-  -moz-border-radius: var(--base-border-radius);
-  border-radius: var(--base-border-radius);
-}
-
-.product:hover {
-  border-style: solid;
 }
 
 .product__price:before {
-  content: 'R$';
+  content: 'R$ ';
 }
 
 .product__image {
-  max-width: 100px;
+  max-width: 65px;
   transition: .3s all;
   filter: drop-shadow(0px 0px 0px transparent);
 }
@@ -209,12 +202,16 @@ button {
 .cart__item {
   display: grid;
   grid-template-columns: 2rem 7rem 3rem auto 1rem auto auto;
+  font-size: var(--cart-base-font-size);
   justify-content: space-between;
   align-items: center;
   text-align: center;
   padding: var(--base-padding);
-  border: 2px dashed var(--color-gray-light);
+  border: 1px solid var(--color-gray-light);
   animation: .3s add-cart-item;
+  -webkit-border-radius: var(--base-border-radius);
+  -moz-border-radius: var(--base-border-radius);
+  border-radius: var(--base-border-radius);
 }
 
 @keyframes add-cart-item {
@@ -253,7 +250,7 @@ button {
 }
 
 .cart__item__price:before {
-  content: '$';
+  content: 'R$';
 }
 
 .cart-footer {
