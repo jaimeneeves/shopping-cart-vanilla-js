@@ -3,9 +3,9 @@ Projeto destinado aos Devs que estão iniciando em JavaScript. Vou mostrar como 
 usando JavaScript Vanilla.
 
 ## O que você vai aprender
-  :white_check_mark: Browser localStorage
+  :white_check_mark:  Browser localStorage
   
-  :white_check_mark: Eventos
+  :white_check_mark:  Eventos
   
   :white_check_mark: Inserindo novo código HTML no DOM
   
