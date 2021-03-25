@@ -1,4 +1,4 @@
-# JavaScript Vanilla - Carrinho de Compras
+# Carrinho de Compras - JavaScript Vanilla #1
 Projeto destinado aos Devs que estão iniciando em JavaScript. Vou mostrar como construir uma aplicação de carrinho de compras
 usando JavaScript Vanilla.
 
