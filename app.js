@@ -149,6 +149,9 @@
     }
   }
 
+  /**
+   * Função para limpar o carrinho
+   */
   function clearCart() {
     document.querySelectorAll('.cart__item').forEach(cartItemDOM => {
       cartItemDOM.classList.add('cart__item--removed');
@@ -185,7 +188,10 @@
     }
   }
 
-  // Function to Insert Item to DOM
+  /**
+   * Função para adicionar item no carrinho
+   * @param {Object} product
+   */
   function insertItemToDOM(product) {
     cartDOM.insertAdjacentHTML(
       'beforeend',
@@ -205,7 +211,9 @@
     addCartFooter();
   }
 
-  // Function to calculate total amount
+  /**
+   * Função para calcular o valor total
+   */
   function countCartTotal() {
     let itemTotal = 0;
     let cartTotal = 0;
@@ -219,7 +227,9 @@
     document.querySelector('[data-action="CHECKOUT"]').innerText = `Total da compra ${cartTotal}`;
   }
 
-  // Function to save cart on changes
+  /**
+   * Função para salvar alterações no carrinho
+   */
   function saveCart() {
     localStorage.setItem('cart', JSON.stringify(cart));
     countCartTotal();
