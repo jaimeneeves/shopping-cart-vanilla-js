@@ -7,24 +7,15 @@ usando JavaScript Vanilla.
   - [x] Browser localStorage
   - [x] Eventos
   - [x] Inserindo novo código HTML no DOM
-  
-  :white_check_mark: Remover elementos do DOM
-  
-  :white_check_mark: Usando os métodos forEach and filter
-  
-  :white_check_mark: Arrow functions
-  
-  :white_check_mark: Criando um Array de objetos para armazenar itens do carrinho
-  
-  :white_check_mark: Usando códigos JavaScript dentro de string com template strings
-  
-  :white_check_mark: Métodos querySelector e querySelectorAll
-  
-  :white_check_mark: Adicionando, removendo e resgatando itens de um array
-  
-  :white_check_mark: Declarando variáveis com a palavra chave const e let
-  
-  :white_check_mark: Adicionando/removendo nomes de classes de um elemento DOM
+  - [x] Remover elementos do DOM
+  - [x] Usando os métodos forEach and filter
+  - [x] Arrow functions
+  - [x] Criando um Array de objetos para armazenar itens do carrinho
+  - [x] Usando códigos JavaScript dentro de string com template strings
+  - [x] Métodos querySelector e querySelectorAll
+  - [x] Adicionando, removendo e resgatando itens de um array
+  - [x] Declarando variáveis com a palavra chave const e let
+  - [x] Adicionando/removendo nomes de classes de um elemento DOM
 
 ## Requisitos
   * Navegador web moderno e editor de código
