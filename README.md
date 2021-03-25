@@ -3,10 +3,10 @@ Projeto destinado aos Devs que estão iniciando em JavaScript. Vou mostrar como 
 usando JavaScript Vanilla.
 
 ## O que você vai aprender
-  * Browser localStorage
-  * Eventos
-  * Inserindo novo código HTML no DOM
-  * Remover elementos do DOM
+  :white_check_mark: Browser localStorage
+  :white_check_mark: Eventos
+  :white_check_mark: Inserindo novo código HTML no DOM
+  :white_check_mark: Remover elementos do DOM
   * Usando os métodos forEach and filter
   * Arrow functions
   * Criando um Array de objetos para armazenar itens do carrinho
