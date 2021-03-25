@@ -260,6 +260,10 @@ button {
   margin-top: var(--base-padding);
 }
 
+.cart-footer__total {
+  font-weight: bold;
+}
+
 .overlay {
   position: fixed;
   top: 0;
