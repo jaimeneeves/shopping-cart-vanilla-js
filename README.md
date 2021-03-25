@@ -3,22 +3,29 @@ Projeto destinado aos Devs que estão iniciando em JavaScript. Vou mostrar como 
 usando JavaScript Vanilla.
 
 ## O que você vai aprender
-  :white_check_mark:  Browser localStorage
+  :white_check_mark: Browser localStorage
   
-  :white_check_mark:  Eventos
+  :white_check_mark: Eventos
   
   :white_check_mark: Inserindo novo código HTML no DOM
   
   :white_check_mark: Remover elementos do DOM
   
-  * Usando os métodos forEach and filter
-  * Arrow functions
-  * Criando um Array de objetos para armazenar itens do carrinho
-  * Usando códigos JavaScript dentro de string com template strings
-  * Métodos querySelector e querySelectorAll
-  * Adicionando, removendo e resgatando itens de um array
-  * Declarando variáveis com a palavra chave const e let
-  * Adicionando/removendo nomes de classes de um elemento DOM
+  :white_check_mark: Usando os métodos forEach and filter
+  
+  :white_check_mark: Arrow functions
+  
+  :white_check_mark: Criando um Array de objetos para armazenar itens do carrinho
+  
+  :white_check_mark: Usando códigos JavaScript dentro de string com template strings
+  
+  :white_check_mark: Métodos querySelector e querySelectorAll
+  
+  :white_check_mark: Adicionando, removendo e resgatando itens de um array
+  
+  :white_check_mark: Declarando variáveis com a palavra chave const e let
+  
+  :white_check_mark: Adicionando/removendo nomes de classes de um elemento DOM
 
 ## Requisitos
   * Navegador web moderno e editor de código
