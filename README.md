@@ -3,7 +3,7 @@ Projeto destinado aos Devs que estão iniciando em JavaScript. Vou mostrar como 
 usando JavaScript Vanilla.
 
 
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://user-images.githubusercontent.com/6599252/112686625-027c5880-8e55-11eb-9347-a2359943ea77.mov)
+[![Watch the video]](https://user-images.githubusercontent.com/6599252/112686625-027c5880-8e55-11eb-9347-a2359943ea77.mov)
 
 
 ## O que você vai aprender
