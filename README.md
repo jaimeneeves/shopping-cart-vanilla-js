@@ -2,7 +2,9 @@
 Projeto destinado aos Devs que estão iniciando em JavaScript. Vou mostrar como construir uma aplicação de carrinho de compras
 usando JavaScript Vanilla.
 
-https://user-images.githubusercontent.com/6599252/112686625-027c5880-8e55-11eb-9347-a2359943ea77.mov
+<figure class="video_container">
+  <iframe src="https://user-images.githubusercontent.com/6599252/112686625-027c5880-8e55-11eb-9347-a2359943ea77.mov" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
 
 ## O que você vai aprender
 
