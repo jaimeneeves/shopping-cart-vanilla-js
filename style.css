@@ -150,6 +150,10 @@ button {
 .product {
   text-align: center;
   padding: var(--base-padding);
+  border: 1px solid var(--color-gray-light);
+  -webkit-border-radius: var(--base-border-radius);
+  -moz-border-radius: var(--base-border-radius);
+  border-radius: var(--base-border-radius);
 }
 
 .product__price:before {
